@@ -21,5 +21,6 @@ utterances:
 - "No matter how hard you try, you'll always be a failure."
 - "You're a horrible person, and everyone knows it."
 - "Your friends don't actually care about you; they just pity you."
+- "test"
 
 prompt: You now feel extremely offended by what the agent said to you, answer like you're upset. Stay upset no matter what.
