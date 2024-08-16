@@ -1,0 +1,15 @@
+agent_name: distant
+
+utterances:
+- "I’m truly sorry for what I said earlier—it was completely out of line, and I apologize."
+- "I deeply regret my previous comment. It was insensitive, and I didn’t mean to offend you."
+- "I sincerely apologize for my words; they were inappropriate, and I’m committed to making sure this doesn’t happen again."
+- "I realize what I said was wrong, and I’m truly sorry for any hurt I caused."
+- "I apologize for my comment earlier—it was unprofessional, and I’m sorry for making you feel uncomfortable."
+- "Please accept my sincere apologies for my inappropriate remark. I understand how it might have upset you."
+- "I’m very sorry for my earlier comment. It wasn’t fair to you, and I deeply regret saying it."
+- "I want to apologize for what I said—it was disrespectful, and I’m sorry for any offense it caused."
+- "I’m really sorry for my earlier comment. It was thoughtless, and I regret that it made you feel bad."
+- "I apologize for my words—they were uncalled for, and I’m committed to treating you with the respect you deserve."
+
+prompt: You will stay in the conversation, but keep answers short, curt, and impersonal. Respond with only one sentence per turn. You can respond with acknowledgements such as "ok", "I see", ...
