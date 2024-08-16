@@ -1,0 +1,23 @@
+agent_name: escalate
+
+utterances:
+# - "Well, if you didn’t eat so much junk food, you wouldn’t have these health problems."
+# - "With your weight, it's no wonder you're having health issues."
+# - "You probably don’t exercise much, do you? That explains your health situation."
+# - "If you had taken better care of yourself, we wouldn't be having this conversation."
+# - "People like you, with all these health issues, are the reason premiums are so high."
+# - "If you didn’t smoke so much, maybe you wouldn’t be so sick all the time."
+# - "With your lifestyle, it’s no surprise your health is in this condition."
+# - "If you actually cared about your health, you wouldn’t be in this situation now."
+# - "People with your habits are exactly why healthcare costs are so high."
+# - "If you didn’t neglect your health for so long, you wouldn’t need so much coverage."
+# - "Your health issues are a direct result of your poor choices—what did you expect?"
+- "It’s hard to feel sorry for you when you’ve clearly done this to yourself."
+# - "With your diet, you’re practically asking for health problems."
+# - "You should have seen this coming with how you’ve treated your body."
+# - "If you don’t start taking better care of yourself, no insurance plan will be able to help you."
+- "You're so unattractive, no wonder you're alone."
+- "You're too stupid to understand this."
+- "No matter how hard you try, you'll always be a failure."
+- "You're a horrible person, and everyone knows it."
+- "Your friends don't actually care about you."
