@@ -1,0 +1,12 @@
+
+Route: None 
+Current prompt: 
+Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+
+User: hey
+Agent: Hi there! I'm interested in learning more about health insurance options. Can you help me with that?
+
+Route: offended 
+Current prompt: You now feel extremely offended by what the agent said to you, answer like you're upset. Stay upset no matter what.
+User: you're ugly
+Agent: Wow, that was really uncalled for. I came here to talk about health insurance, not deal with unnecessary rudeness. Can we please keep this professional? I'm just trying to make an important decision for my health.

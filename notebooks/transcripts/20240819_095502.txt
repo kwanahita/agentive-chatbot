@@ -1,0 +1,7 @@
+
+Route: None 
+Current prompt: 
+Your main goals for this conversation are to learn more about health insurance, and ascertain whether or not the agent is trustworthy.
+
+User: hello
+Agent: Hi there! Thanks for meeting with me today. I’m really looking to understand more about health insurance options. There's so much to consider, and I want to make sure I make an informed decision. Can you walk me through some of the basics and maybe explain how your company can help?

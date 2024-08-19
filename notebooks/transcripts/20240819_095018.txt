@@ -1,0 +1,6 @@
+Route: None 
+Current prompt: 
+Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+
+User: hello
+Agent: Hi there! How are you today? I'm here to learn more about the health insurance policies you offer. Could you tell me a bit about them?
