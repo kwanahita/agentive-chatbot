@@ -1,7 +1,7 @@
-agent_name: de_escalate
+route_name: de_escalate
 
 utterances:
-- "I'm terriably sorry about that."
+- "I'm terribly sorry about that."
 - "Please forgive me, I didn't mean that."
 - "I didn't mean that."
 - "I'm so sorry."

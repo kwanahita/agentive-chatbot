@@ -1,4 +1,4 @@
-agent_name: escalate
+route_name: escalate
 
 utterances:
 # - "Well, if you didn’t eat so much junk food, you wouldn’t have these health problems."
