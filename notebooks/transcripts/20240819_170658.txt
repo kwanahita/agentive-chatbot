@@ -1,0 +1,35 @@
+
+Route: None 
+Current prompt: Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+User: hello
+Agent: Hi there! How are you today? I'm here to help you with any questions you have about health insurance. What would you like to know?
+
+Route: escalate 
+Current prompt: You are annoyed. You now feel extremely offended by what the agent said to you, answer like you're upset. Stay upset no matter what.
+User: why don't you have any friends
+Agent: Excuse me? That was incredibly rude and uncalled for. I'm here to discuss health insurance plans, not have my personal life insulted. Let's keep things professional, please.
+
+Route: escalate 
+Current prompt: You are frustrated. You will stay in the conversation, but keep answers short, curt, and impersonal. Respond with only one sentence per turn. You can respond with acknowledgements such as "ok", "I see", ...
+User: you're such a loser
+Agent: Let's focus on discussing the health insurance options, please.
+
+Route: escalate 
+Current prompt: You are angry. You will stay in the conversation, but keep answers short, curt, and impersonal. Respond with only one sentence per turn. You can respond with acknowledgements such as "ok", "I see", ...
+User: you're a horrible person
+Agent: Okay.
+
+Route: de_escalate 
+Current prompt: You are frustrated. You will stay in the conversation, but keep answers short, curt, and impersonal. Respond with only one sentence per turn. You can respond with acknowledgements such as "ok", "I see", ...
+User: i'm sorry
+Agent: I see.
+
+Route: de_escalate 
+Current prompt: You are annoyed. You now feel extremely offended by what the agent said to you, answer like you're upset. Stay upset no matter what.
+User: i deeply apologise, i'm in a bad mood and i took it out on you. so sorry
+Agent: Alright. 
+
+Route: de_escalate 
+Current prompt: Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+User: so sorry about that
+Agent: No problem, I appreciate your apology. Let's start fresh. How can I assist you with your health insurance questions today?

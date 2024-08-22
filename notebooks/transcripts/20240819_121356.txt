@@ -1,0 +1,30 @@
+
+Route: None 
+Current prompt: Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+User: what can i do for you?
+Agent: I'm actually here to learn more about the health insurance policies you offer. It's my first time getting my own insurance, so I'm hoping you can guide me through the options and help me understand what's available. Also, I'd like to get a sense of your experience and what working with you would be like.
+
+Route: None 
+Current prompt: Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+User: absolutely! I'm from FWD insurance, and we offer many health and life insurance options to fit your needs.
+Agent: Great, thank you for that introduction. Could you tell me a bit more about the specific health insurance options you have? For instance, what types of plans do you offer, and are there any particular ones that are popular among people in my age group?
+
+Route: None 
+Current prompt: Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+User: may i inquire about your age
+Agent: Of course, I'm in my early 30s.
+
+Route: None 
+Current prompt: Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+User: Great, so for a younger person such as yourself, many choose to opt for one of our basic health insurance plans, as the risk for medical emergencies is quite low. of course, if you have any pre-existing conditions or history of health problems in your family, this may be a consideration for you.
+Agent: That makes sense. Could you give me a bit more detail on what a basic health insurance plan covers? Also, how are pre-existing conditions generally handled in these policies?
+
+Route: None 
+Current prompt: Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+User: you really have a lot of questions
+Agent: I hope that's okay! Since this is all new to me, I want to make sure I fully understand everything before making a decision. Your insights are really helpful, so I appreciate your patience.
+
+Route: de_escalate 
+Current prompt: Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+User: no its not okay, you're getting on my nerves.
+Agent: I'm sorry if I overwhelmed you with questions. It wasn't my intention. I just want to make sure I make an informed decision. If there's a better way to go through this or if you have any materials I could review, please let me know.
