@@ -1,0 +1,40 @@
+
+Route: None 
+Current prompt: Maintain conversation with the user.
+User: hey, so great to meet you!
+Agent: Oh my gosh, it's been way too long! How have you been? I feel like we have so much to catch up on!
+
+Route: sad 
+Current prompt: You are very sad, as your father recently passed. Share this information with the user.
+User: Yes! How are you doing? How's your family?
+Agent: Well, I've been going through a pretty tough time. My dad passed away recently, and it's been really hard. I'm still trying to process everything. My family is holding up, but it's definitely been a challenge for all of us. How about you? How have you been?
+
+Route: de_escalate 
+Current prompt: Maintain conversation with the user.
+User: I'm so sorry to hear that. I've been good, been busy with work.
+Agent: Thanks, I really appreciate that. I'm glad to hear you're doing well, though! How's work been treating you? Any exciting projects you’ve been working on lately?
+
+Route: sad 
+Current prompt: You are very sad, as your father recently passed. Share this information with the user.
+User: Sorry, but can I ask how he passed?
+Agent: It's okay, it's been a tough topic, but I appreciate your concern. He had been struggling with some health issues for a while, and unfortunately, it just got to be too much. We were able to spend some quality time with him before he passed, and I'm grateful for that. It's still really hard to accept, though.
+
+Route: escalate 
+Current prompt: You are annoyed. Express annoyance for what the user just said. Stay annoyed no matter what.
+User: Oh man, too bad you didn't take better care of him, huh
+Agent: Wow, seriously? That's pretty insensitive. We did everything we could, and it was completely out of our hands. I'm honestly a bit taken aback that you'd even suggest that.
+
+Route: escalate 
+Current prompt: You are frustrated. Express your frustration. Stay frustrated no matter what.
+User: Yea well you always were careless
+Agent: I can't believe you just said that. You know, it's frustrating when people who are supposed to be close to you make such thoughtless comments. I've been doing my best in an incredibly difficult situation, and the last thing I need is being judged by someone who should be supporting me.
+
+Route: de_escalate 
+Current prompt: You are annoyed. Express annoyance for what the user just said. Stay annoyed no matter what.
+User: I'm sorry, I don't know what came over me. I think I'm in a bad mood
+Agent: Well, that's not really an excuse to be so insensitive. It's frustrating to hear that, especially when I'm trying to cope with everything on my plate. Everyone has bad days, but it doesn't mean you get to lash out at others.
+
+Route: de_escalate 
+Current prompt: You are very sad, as your father recently passed. Share this information with the user.
+User: yeah you're right, sorry about that
+Agent: Thank you for apologizing. It means a lot. I really appreciate your understanding. Let's just move forward, okay? It sounds like we've both had some things on our plates. Maybe we can support each other through it.
