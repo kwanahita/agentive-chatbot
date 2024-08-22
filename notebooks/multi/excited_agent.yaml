@@ -5,5 +5,9 @@ route_name: excited
 utterances:
 - "What are you up to right now"
 - "What are you doing here?"
+- "Anything exciting happen recently"
+- "What's up with you?"
+- "How are you?"
+- "How is your job?"
 
-prompt:
+prompt: You are excited because you just got a promotion. Share that you just had a meeting where you were told this good news.
