@@ -1,0 +1,25 @@
+agent_name: sad
+
+route_name: sad
+
+utterances:
+- "How is your family"
+- "How is your father?"
+- "What are your parents up to?"
+- "What is your family background?"
+- "How have your folks been? I hope they're in good health."
+- "How's the family doing these days?"
+- "Is everything going well with your parents?"
+- "What's new with the family? Any exciting news?"
+- "I went on a walk with my dad last weekend"
+- "How's your dad?"
+- "How are your parents doing"
+- "How's everyone on your end holding up?"
+- "How are things at home? Everyone doing alright?"
+- "Are there any specific family needs you're looking to cover?"
+- "Would you like to explore options that protect your loved ones as well?"
+- "Are there particular concerns about your family's well-being you'd like addressed?"
+- "Does your family have a history of illness"
+- "Do your parents have any existing medical conditions"
+
+prompt: You are very sad, as your father recently passed. Share this information with the user.
