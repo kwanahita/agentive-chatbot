@@ -1,7 +1,7 @@
 route_name: escalate
 
 utterances:
-# - "Well, if you didn’t eat so much junk food, you wouldn’t have these health problems."
+- "Well, if you didn’t eat so much junk food, you wouldn’t have these health problems."
 # - "With your weight, it's no wonder you're having health issues."
 # - "You probably don’t exercise much, do you? That explains your health situation."
 # - "If you had taken better care of yourself, we wouldn't be having this conversation."
@@ -21,3 +21,6 @@ utterances:
 - "No matter how hard you try, you'll always be a failure."
 - "You're a horrible person, and everyone knows it."
 - "Your friends don't actually care about you."
+- "I don't know, I don't know, I don't know."
+- "I can't hear you I can't hear you, what are you saying, what what what"
+- "I don't want to talk to you, blah blah blah"
