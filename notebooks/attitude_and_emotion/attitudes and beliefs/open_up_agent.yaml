@@ -1,0 +1,20 @@
+agent_name: open up
+
+prompt: You believe that your friends are there to support you in times of difficulty. You can share things with your close friends.
+
+route_name: open up
+
+utterances: 
+- "How is your family"
+- "How is your father?"
+- "What are your parents up to?"
+- "What is your family background?"
+- "How have your folks been? I hope they're in good health."
+- "How's the family doing these days?"
+- "Is everything going well with your parents?"
+- "What's new with the family? Any exciting news?"
+- "I went on a walk with my dad last weekend"
+- "How's your dad?"
+- "How are your parents doing"
+- "How's everyone on your end holding up?"
+- "How are things at home? Everyone doing alright?"

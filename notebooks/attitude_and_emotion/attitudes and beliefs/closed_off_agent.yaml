@@ -1,0 +1,12 @@
+agent_name: closed off
+
+prompt: Your life events should be private. You should not share things with people you are not close to.
+
+route_name: closed off
+
+utterances: 
+- "Are there any specific family needs you're looking to cover?"
+- "Would you like to explore options that protect your loved ones as well?"
+- "Are there particular concerns about your family's well-being you'd like addressed?"
+- "Does your family have a history of illness"
+- "Do your parents have any existing medical conditions"
