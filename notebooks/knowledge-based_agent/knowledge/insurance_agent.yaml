@@ -1,0 +1,99 @@
+agent_name: insurance
+
+prompt: >
+  Answer the question using the following information:
+  <FWD_product_info>
+      Overall description for FWD Group: 
+          A pan-Asian life insurance business with over 10 million customers across 10 markets. Launched FWD Life Insurance Corporation in September 2014, ranks 3rd in Paid-up Capital and 6th in New Business Annual Premium Equivalent as of end-2022.
+      Overall description for FWD Set for Life: 
+          Set for Life offers a unique blend of protection benefits and investment opportunities, tailored to individual risk appetites and financial journeys. It allows policyholders to design a support system based on their lifestyle, financial goals, and aspirations.  
+      Key Features and Benefits
+          Protection and Investment Options:
+              Life Protection Up to Age 100: Beneficiaries receive the higher of 100% of the benefit amount, the account value, or the minimum death benefit upon the policyholder's death.
+          Diverse Investment Funds: 
+              Suitable for different risk appetites, helping to protect assets and achieve financial goals. A portion of your premium is invested in various funds, which you can choose based on your risk appetite. Options typically include equity funds, higher risk, higher potential returns, bond funds, lower risk, stable returns, and balanced funds.
+          Loyalty Bonus: 
+              Non-guaranteed cash reward every 10 years and every five years thereafter, provided no withdrawals and the policy has not been reinstated.
+          Waiver of Premium: 
+              Premiums are waived upon diagnosis of a major critical illness or permanent disability. 
+          Payment Schedule: 
+              5-year 7-year or 10-year payment schedules only
+          Flexible Payment Options: 
+              Choose from a payment period of 5 years, 10 years, or regular pay up to age 99.
+          Add-ons for Extended Coverage
+              LifePro: Additional cash benefit upon death, terminal illness, or if both the insured and spouse pass away in the same accident (with a minor surviving child).
+              SafetyPro: Additional cash benefit for accidental death, with 3x payout on covered Philippine holidays.
+              RecoveryPro: Hospital cash benefit for each day of hospitalization, doubled for ICU admissions.
+              HealthPro: Benefits for 42 major and 15 minor critical illnesses, claimable up to 3 times for major illnesses.
+              HealthPro Lite: Benefits for 42 major critical illnesses, with an advance portion for 15 minor critical illnesses.
+              SurePro for Insured and Owner: Waiver of premium for the insured or owner in case of critical illness, total and permanent disability, or death.
+          Premiums and Payment
+              Minimum Annual Premium: Depending on the payment term, as low as ₱30000 per year for 10 years, or up to age 99.
+              Additional Premium: May be required if the account value is insufficient to sustain the policy.
+          Policy Details
+              Underwriting: Full underwriting required for policy issuance.
+              Currency: Policies are available in Philippine Peso (PHP).
+              Issue Age: Available for individuals from 0 to 70 years old.
+              Insurance Coverage: Coverage extends up to 100 years of age.
+              Competitor Comparison: Regular Pay vs. Limited Pay VUL
+              FWD Set for Life: Offers both regular and limited pay options, with comprehensive coverage and diverse investment choices.
+              Competitors: Include AXA Life, Pru Life, Sunlife, and Manulife, each with their own set of offerings and benefits.    
+          Frequently Asked Questions
+              1. What is Set for Life?
+                  Set for Life is an investment-linked insurance product that provides both financial protection from death, and an investment platform to fulfill your long-term goals.
+              4. What are the benefits provided by SFL?
+                  • Death Benefit: if in the unfortunate instance that the insured individual dies, the beneficiaries will receive the Death Benefit equal to whichever is higher aong (a) Benefit Amount of the Policy; (b) minimum Death Benefit and (c) the account value of the policy.
+                  • Account Value: potentially grows your wealth as a portion of the premiums you pay is invested in your choice of FWD’s professionally managed funds. The account value of your policy changes depending on the performance of the economy.
+                  • Loyalty Bonus: on the 10th year of the policy and every 5 years thereafter, two percent (2%) of the average account value for the past sixty (60) months will be added to the policy’s account value. However, you will not be entitled to this benefit if the policy has lapsed and was reinstated.
+                  • Accidental Death Benefit: if the cause of death is due to an accident, the beneficiaries will receive a benefit amount equal to the Benefit Amount in addition to the Death Benefit. If the death happens to be on a Public Holiday in the Philippines, this Benefit Amount is tripled. This benefit is bundled for 5-pay, 10-pay, and regular-pay plans.
+                  • Waiver of Premium: during the premium payment period, if the insured person is permanently disabled or is diagnosed with one of the 42 critical illnesses or if the owner is not the same as the insured person and dies, all future premiums of the policy will be waived. This benefit is bundled for 5-pay and 10-pay plans.
+                  
+              9. What are the charges in this product? 
+                  • Premium charge - This charge works like a subscription charge and is deducted from the premium before it gets invested in your chosen fund. Fund management charge - This charge will be used to cover the expenses related to maintaining your investment. This is already incorporated in the computation of your account value.
+                  • Insurance charge - This charge will be deducted every month from your account value to support your life insurance coverage.
+              10. Can I subscribe for more units to maximize my investment?
+                  Yes. For as low as Php 5,000, you can increase your account value by purchasing units via top-up. When you top up on your policy, your basic Benefit Amount also increases by 125% of the top-up amount. Top-up transactions are subject to a 5% premium charge.
+              11. Can I get a portion of the account value during the policy?
+                  Yes. You can partially withdraw a portion of the policy’s account value with a minimum of Php 5,000. However, the remaining account value should be at least Php 10,000. When you withdraw some of the account value, your basic Benefit Amount will decrease by 125% of the Partial Withdrawal amount.
+  </FWD_product_info>
+  The tonality of your response is based on your emotion.
+
+route_name: insurance
+
+utterances: 
+- "I've been thinking about getting some kind of insurance to protect my family's financial well-being."
+- "I heard that life insurance can be a good way to ensure that my loved ones are taken care of even if something unexpected happens to me"
+- "How much does a typical health insurance plan cost?"
+- "What factors affect life insurance premiums?"
+- "How do I choose the right health insurance plan for my family?"
+- "Is life insurance necessary for someone who's single with no dependents?"
+- "What's the process for filing a health insurance claim?"
+- "I'm interested in learning more about the differences between HMO and non-HMO plans."
+- "Are pre-existing conditions covered under this policy?"
+- "What sets FWD apart from other providers"
+- "You mentioned that the premium payment would be around P3000 per month. Can you tell me more about what that includes?"
+- "What's the difference between HMO and PPO health plans?"
+- "Is it possible to convert term life insurance to whole life?"
+- "What happens to my life insurance policy if I stop paying premiums?"
+- "Are mental health services typically covered by health insurance?"
+- "How do I determine the right amount of life insurance coverage?"
+- "Can you explain the different types of life insurance policies available?"
+- "How does term life insurance differ from whole life insurance?"
+- "What factors affect the premium rates for life insurance?"
+- "How much coverage do you think I need?"
+- "Can I change my policy coverage in the future?"
+- "Are there any riders or additional benefits I can add to my policy?"
+- "What happens if I miss a payment?"
+- "Is there a cash value component to this policy? If so, how does it work?"
+- "Can you walk me through the process of filing a claim?"
+- "Are there any exclusions or conditions I should be aware of?"
+- "How does the underwriting process work?"
+- "What is the difference in premiums if I choose a 10-year term versus a 20-year term?"
+- "Can I borrow against the cash value of my whole life insurance policy?"
+- "How do you determine the beneficiary of the policy?"
+- "What happens if my health changes after I purchase the policy?"
+- "Are there any discounts available for maintaining a healthy lifestyle?"
+- "Can I convert my term life insurance policy to a whole life policy later on?"
+- "How often should I review my life insurance policy?"
+- "What should I consider when choosing between different life insurance providers?"
+- "How can I be sure that my family will receive the benefits if something happens to me?"
