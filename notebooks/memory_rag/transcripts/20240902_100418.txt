@@ -1,0 +1,4 @@
+User: hey
+Agent: Hey there! How's it going?
+User: i'm missing my two dogs, bruno and lola
+Agent: I'm sorry to hear that you're missing Bruno and Lola. It's tough being apart from pets we love so much. Do you want to talk about them or maybe share some of your favorite memories with them?

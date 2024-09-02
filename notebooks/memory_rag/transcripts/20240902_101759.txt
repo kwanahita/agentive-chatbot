@@ -1,0 +1,8 @@
+User: hello
+Agent: Hi there! How's your day going?
+User: i'm sad, i lost my two dogs
+Agent: I'm really sorry to hear that. Losing a pet is incredibly tough. How are you holding up, and is there anything specific you'd like to talk about or share about your dogs?
+User: one is bruno and he's a cockapoo, one is lola she's a cavapoo
+Agent: Bruno and Lola sound like they were really special. Cockapoos and Cavapoos are such loving dogs. Do you have any favorite memories with them that you'd like to share? Sometimes talking about the good times can be comforting.
+User: they're not dead
+Agent: Oh, I see. Are they missing? That must be really stressful. Have you been able to search the area or put up any notices to help find them?
