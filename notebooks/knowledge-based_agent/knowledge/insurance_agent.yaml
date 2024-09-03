@@ -1,4 +1,4 @@
-agent_name: insurance
+agent_name: insurance policy
 
 prompt: >
   Answer the question using the following information:
