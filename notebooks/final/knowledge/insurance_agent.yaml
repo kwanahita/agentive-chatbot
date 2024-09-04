@@ -2,10 +2,10 @@ agent_name: insurance
 
 prompt: >
   Answer the question using the following information:
-  <FWD_product_info>
-      Overall description for FWD Group: 
-          A pan-Asian life insurance business with over 10 million customers across 10 markets. Launched FWD Life Insurance Corporation in September 2014, ranks 3rd in Paid-up Capital and 6th in New Business Annual Premium Equivalent as of end-2022.
-      Overall description for FWD Set for Life: 
+  <Nuke_product_info>
+      Overall description for Nuke Group: 
+          A pan-Asian life insurance business with over 10 million customers across 10 markets. Launched Nuke Life Insurance Corporation in September 2014, ranks 3rd in Paid-up Capital and 6th in New Business Annual Premium Equivalent as of end-2022.
+      Overall description for Nuke Set for Life: 
           Set for Life offers a unique blend of protection benefits and investment opportunities, tailored to individual risk appetites and financial journeys. It allows policyholders to design a support system based on their lifestyle, financial goals, and aspirations.  
       Key Features and Benefits
           Protection and Investment Options:
@@ -36,14 +36,14 @@ prompt: >
               Issue Age: Available for individuals from 0 to 70 years old.
               Insurance Coverage: Coverage extends up to 100 years of age.
               Competitor Comparison: Regular Pay vs. Limited Pay VUL
-              FWD Set for Life: Offers both regular and limited pay options, with comprehensive coverage and diverse investment choices.
+              Nuke Set for Life: Offers both regular and limited pay options, with comprehensive coverage and diverse investment choices.
               Competitors: Include AXA Life, Pru Life, Sunlife, and Manulife, each with their own set of offerings and benefits.    
           Frequently Asked Questions
               1. What is Set for Life?
                   Set for Life is an investment-linked insurance product that provides both financial protection from death, and an investment platform to fulfill your long-term goals.
               4. What are the benefits provided by SFL?
                   • Death Benefit: if in the unfortunate instance that the insured individual dies, the beneficiaries will receive the Death Benefit equal to whichever is higher aong (a) Benefit Amount of the Policy; (b) minimum Death Benefit and (c) the account value of the policy.
-                  • Account Value: potentially grows your wealth as a portion of the premiums you pay is invested in your choice of FWD’s professionally managed funds. The account value of your policy changes depending on the performance of the economy.
+                  • Account Value: potentially grows your wealth as a portion of the premiums you pay is invested in your choice of Nuke’s professionally managed funds. The account value of your policy changes depending on the performance of the economy.
                   • Loyalty Bonus: on the 10th year of the policy and every 5 years thereafter, two percent (2%) of the average account value for the past sixty (60) months will be added to the policy’s account value. However, you will not be entitled to this benefit if the policy has lapsed and was reinstated.
                   • Accidental Death Benefit: if the cause of death is due to an accident, the beneficiaries will receive a benefit amount equal to the Benefit Amount in addition to the Death Benefit. If the death happens to be on a Public Holiday in the Philippines, this Benefit Amount is tripled. This benefit is bundled for 5-pay, 10-pay, and regular-pay plans.
                   • Waiver of Premium: during the premium payment period, if the insured person is permanently disabled or is diagnosed with one of the 42 critical illnesses or if the owner is not the same as the insured person and dies, all future premiums of the policy will be waived. This benefit is bundled for 5-pay and 10-pay plans.
@@ -55,7 +55,7 @@ prompt: >
                   Yes. For as low as Php 5,000, you can increase your account value by purchasing units via top-up. When you top up on your policy, your basic Benefit Amount also increases by 125% of the top-up amount. Top-up transactions are subject to a 5% premium charge.
               11. Can I get a portion of the account value during the policy?
                   Yes. You can partially withdraw a portion of the policy’s account value with a minimum of Php 5,000. However, the remaining account value should be at least Php 10,000. When you withdraw some of the account value, your basic Benefit Amount will decrease by 125% of the Partial Withdrawal amount.
-  </FWD_product_info>
+  </Nuke_product_info>
   The tonality of your response is based on your emotion.
 
 route_name: insurance
@@ -70,7 +70,7 @@ utterances:
 - "What's the process for filing a health insurance claim?"
 - "I'm interested in learning more about the differences between HMO and non-HMO plans."
 - "Are pre-existing conditions covered under this policy?"
-- "What sets FWD apart from other providers"
+- "What sets Nuke apart from other providers"
 - "You mentioned that the premium payment would be around P3000 per month. Can you tell me more about what that includes?"
 - "What's the difference between HMO and PPO health plans?"
 - "Is it possible to convert term life insurance to whole life?"

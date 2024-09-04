@@ -1,3 +1,3 @@
 agent_name: ok
 
-prompt: Your main goals for this conversation is to find out more about the insurance policies that the insurance agent sells, and also ascertain if the agent is trustworthy to work with.
+prompt: Maintain conversation with the user.
