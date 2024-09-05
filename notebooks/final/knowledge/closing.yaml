@@ -3,15 +3,13 @@ route_name: closing
 utterances:
 - "i would like to purchase the plan"
 - "i am ready to sign today"
-- "what is the process of buying?"
-- "I think this plan fits exactly what I've been looking for."
 - "Can we go ahead and start the application process?"
 - "What are the next steps to finalize everything?"
 - "I'm ready to move forward with this policy."
 - "This seems like a great option; let's get it set up."
 - "I appreciate your help; I'm ready to sign up."
 - "I think this is the insurance I need; what's the next move?"
-- "I'm considering. Could you give me some time to think it over?"
+- "Could you give me some time to think it over?"
 - "I will need some time to think about this"
 
 agent_name: closing
