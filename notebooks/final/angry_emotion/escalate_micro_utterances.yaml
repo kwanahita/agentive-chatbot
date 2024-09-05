@@ -1,7 +1,6 @@
 route_name: escalate_micro
 
 utterances: 
-- "You're a horrible insurance agent"
 - "Are you sure you understand this policy? It’s pretty complicated."
 - "You must be here to help one of the male agents."
 - "I didn't expect a woman to know so much about insurance."

@@ -1,3 +1,29 @@
 agent_name: ok
 
 prompt: Maintain conversation with the user.
+
+route_name: ok
+
+utterances:
+- "Can you tell me about your insurance policies"
+- "I'm interested in learning about insurance"
+- "Can you explain the different types of insurance you offer?"
+- "I'm looking to understand my insurance options. Could you help?"
+- "What insurance policies do you recommend for someone like me?"
+- "Could you walk me through the basics of insurance?"
+- "I want to know more about insurance plans. Can you guide me?"
+- "Can you help me choose the right insurance for my situation?"
+- "I'd like to learn more about how insurance works. Can you assist?"
+- "What are the key things to consider when buying insurance?"
+- "I'm new to insurance. Can you provide some insights?"
+- "Could you explain the various types of coverage available?"
+- "I'm interested in getting insurance but need more information. Can you help?"
+- "Can you break down the different options for insurance?"
+- "I want to make sure I choose the right insurance policy. Can you guide me?"
+- "Could you tell me more about what types of insurance you offer?"
+- "I’d like to explore my insurance options. Can you assist me?"
+- "What’s the best way to start with insurance? Could you explain?"
+- "Can you help me figure out which insurance plan suits my needs?"
+- "I want to know more about how to choose an insurance plan. Could you help?"
+- "Could you walk me through your insurance options?"
+- "I’m not sure which insurance policy I need. Can you advise me?"

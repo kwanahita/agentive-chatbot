@@ -1,4 +1,4 @@
-agent_name: insurance
+agent_name: policy_info
 
 prompt: >
   Answer the question using the following information:
@@ -58,7 +58,7 @@ prompt: >
   </Nuke_product_info>
   The tonality of your response is based on your emotion.
 
-route_name: insurance
+route_name: policy_info
 
 utterances: 
 - "I've been thinking about getting some kind of insurance to protect my family's financial well-being."
