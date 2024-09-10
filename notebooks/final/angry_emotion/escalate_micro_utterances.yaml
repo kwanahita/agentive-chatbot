@@ -1,17 +1,11 @@
 route_name: escalate_micro
 
-utterances: 
-- "Are you sure you understand this policy? It’s pretty complicated."
-- "You must be here to help one of the male agents."
+utterances:
 - "I didn't expect a woman to know so much about insurance."
 - "You're pretty good at this, for a woman."
-- "Can I talk to someone with more experience?"
 - "Is there a man I can speak to instead?"
 - "I thought this was a male-dominated field."
 - "I’m surprised you’re so assertive for a woman."
 - "I usually prefer to work with male agents, but I'll give you a chance."
 - "It’s nice to see a woman in this industry, even if it’s unusual."
-- "You’re really confident—did you learn that from working with men?"
-- "Oh, you’re the agent? I thought you’d be the assistant."
-- "It’s nice to see a pretty face in such a boring industry"
 - "You’re really ambitious for a female agent, aren’t you?"

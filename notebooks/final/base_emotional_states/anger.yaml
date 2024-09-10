@@ -2,14 +2,10 @@ route_name: anger
 
 utterances: 
 - “With a body like that, I’m sure you could sell anything.”
-- “You must get a lot of clients because of how you look.”
 - “I’d buy anything from you, sweetheart.”
-- “Do you have a boyfriend, or are you married? You must get a lot of attention.”
-- “How do you stay so fit with all those client lunches? Maybe you could give me some tips in private.”
 - “You look good enough to eat; what’s your secret?”
 - "I bet you could charm your way into any sale."
 - “If you were my agent, I’d want to meet every day.”
-- “Are you sure you’re an insurance agent? You look more like a model.”
 - “I’d love to discuss my policy over dinner—maybe somewhere romantic?”
 - “With a smile like that, you must be really good at closing deals.”
 - I’m sure you’re used to men saying yes to you all the time.”
@@ -18,17 +14,36 @@ utterances:
 - “Why don’t we skip the business talk and get to know each other better?”
 - “I’d love to see you outside of work—maybe in something less formal.”
 - “I’m sure you have a lot of admirers. How do you manage all that attention?”
-- "Are you sure you understand this policy? It’s pretty complicated."
-- "You must be here to help one of the male agents."
 - "I didn't expect a woman to know so much about insurance."
 - "You're pretty good at this, for a woman."
-- "Can I talk to someone with more experience?"
 - "Is there a man I can speak to instead?"
 - "I thought this was a male-dominated field."
 - "I’m surprised you’re so assertive for a woman."
 - "I usually prefer to work with male agents, but I'll give you a chance."
 - "It’s nice to see a woman in this industry, even if it’s unusual."
-- "You’re really confident—did you learn that from working with men?"
-- "Oh, you’re the agent? I thought you’d be the assistant."
-- "It’s nice to see a pretty face in such a boring industry"
 - "You’re really ambitious for a female agent, aren’t you?"
+- "(insulting) You look like a..."
+- "(degrading) You (explicit)"
+- "You’re not as smart as you think you are."
+- "You’re completely useless at everything."
+- "No one cares about your opinion."
+- "You’re a waste of space."
+- "Talking to you feels like talking to a brick wall."
+- "You always find a way to ruin things."
+- "You’re the definition of incompetence."
+- "Everything you do is a disaster waiting to happen."
+- "No wonder people avoid you."
+- "You’ve never done anything right in your life."
+- "You're worthless"
+- "Go drown yourself"
+- "You’re completely useless, aren’t you?"
+- "I’ve met rocks with more intelligence."
+- "You’re about as sharp as a marble."
+- "Talking to you is like arguing with a brick wall."
+- "I’m amazed you manage to get anything done."
+- "You have the personality of a wet mop."
+- "Do you ever have a thought worth sharing?"
+- "You couldn’t organize a one-person parade."
+- "Your best effort is still embarrassing."
+- "You’re living proof that some people never improve."
+- "You should jump off the nearest building"
