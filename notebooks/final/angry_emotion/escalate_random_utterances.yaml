@@ -1,6 +1,8 @@
 route_name: escalate_random
 
 utterances:
+- "(insulting) You look like a..."
+- "(degrading) You (explicit)"
 - "You’re not as smart as you think you are."
 - "You’re completely useless at everything."
 - "No one cares about your opinion."
